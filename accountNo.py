@@ -8,4 +8,3 @@ accNo=d["Account Number"][getaccno]
 
 url="http://localhost:3000/"
 webbrowser.open(url+str(accNo))
- 
